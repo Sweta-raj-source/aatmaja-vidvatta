@@ -61,7 +61,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Mysql](https://www.mysql.com/) 
 * [Javascript](https://www.javascript.com/) 
 * [Python](https://www.python.org/) 
-* [Salesforce](https://www.salesforce.com/in/)
+* [Freshworks](https://www.freshworks.com/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
