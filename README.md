@@ -93,9 +93,15 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Saniya inamdar - [Saniya_inamdar](https://www.linkedin.com/in/saniya-inamdar-a3a10318b) 
+Saniya inamdar - [Saniya_inamdar](https://www.linkedin.com/in/saniya-inamdar-a3a10318b)  
+
+
 Anjali_Kundilya - [Anjali_Kundliya](https://www.linkedin.com/in/anjalikundliya/)
+
+
 Sweta Raj - [Sweta_Raj](https://www.linkedin.com/in/sweta-raj-053693206/) 
+
+
 Parth Sharma - [Parth_Sharma](https://www.linkedin.com/in/parth-sharma-718b3b1a5/) 
 
 Project Link: [https://github.com/Parth-001-git/aatmaja-vidvatta](https://github.com/Parth-001-git/aatmaja-vidvatta)
