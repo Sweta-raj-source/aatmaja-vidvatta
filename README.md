@@ -58,10 +58,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [CSS3](https://www.css3.info/)
 * [Bootstrap](https://getbootstrap.com)
 * [Django](https://www.djangoproject.com/)
-* [Mysql](https://www.mysql.com/)
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/) 
+* [Mysql](https://www.mysql.com/) 
 * [Javascript](https://www.javascript.com/) 
 * [Python](https://www.python.org/) 
+* [Salesforce](https://www.salesforce.com/in/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
